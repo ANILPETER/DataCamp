@@ -1,6 +1,6 @@
 # Data Scientist Career Path using Python on DataCamp
 ## Introduction
-This repository contains various tutorials created by [DataCamp](DataCamp) educators for [Data Scientist Career Path](https://www.datacamp.com/tracks/data-scientist-with-python) theat I've Learned.
+This repository contains various tutorials created by [DataCamp](DataCamp) educators for [Data Scientist Career Path](https://www.datacamp.com/tracks/data-scientist-with-python) that I've Learned.
 
 ## List of Courses
 
