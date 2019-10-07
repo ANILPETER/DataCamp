@@ -51,7 +51,7 @@ Learn how to easily manage your software using conda.
 ### 23. Unsupervised Learning in Python
 - Learn how to cluster, transform, visualize, and extract insights from unlabeled datasets using scikit-learn and scipy.
 ### 24. Machine Learning with Tree-Based Models in Python
-In this course, you'll learn how to use tree-based models and ensembles for regression and classification using sciki...
+- In this course, you'll learn how to use tree-based models and ensembles for regression and classification using sciki...
 ### 25. Deep Learning in Python
 - Learn the fundamentals of neural networks and how to build deep learning models using Keras 2.0.
 ### 26. Network Analysis in Python (Part 1)
